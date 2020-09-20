@@ -3,7 +3,7 @@
 <img src="images/suits.png" width="40%" />
 
 ## Motivation
-Whoever has watched enough of the TV show Suits knows that there are specific phrases repeated over and over in many episodes. 
+Whoever has watched enough of the TV show [Suits](https://www.imdb.com/title/tt1632701/) knows that there are specific phrases repeated over and over in many episodes. 
 Not only that but these phrases are used by many characters, as if they all have the same way of talking.
 
 Feeling the urge to quantify this observation, this notebook downloads, parses and analyses all the subtitles 
