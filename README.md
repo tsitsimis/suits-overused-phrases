@@ -7,7 +7,7 @@ Whoever has watched enough of the TV show [Suits](https://www.imdb.com/title/tt1
 Not only that but these phrases are used by many characters, as if they all have the same way of talking.
 
 Feeling the urge to quantify this observation, this notebook downloads, parses and analyses all the subtitles 
-from all 134 episodes (9 seasons) of Suits. It uses n-grams to assit finding common phrases and regular expressions to match them and similar ones in the subtitles corpus.
+from all 134 episodes (9 seasons) of Suits. It uses n-grams to assist finding common phrases and regular expressions to match them and similar ones in the subtitles corpus.
 
 ![](visualization.png)
 
