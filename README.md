@@ -11,6 +11,8 @@ from all 134 episodes (9 seasons) of Suits. It uses n-grams to assist finding co
 
 ![](visualization.png)
 
+Reddit [post](https://www.reddit.com/r/dataisbeautiful/comments/iwen9x/oc_what_did_you_just_say_to_me_and_other_overused/?utm_source=share&utm_medium=web2x&context=3)
+
 ## Tools
 - [requests](https://requests.readthedocs.io/en/master/) and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to fetch and 
 parse episode transcripts from online source
